@@ -1,0 +1,9 @@
+* fuzzy-dates
+
+A library to fuzzily parse date and time strings
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/Shinmera/fuzzy-dates.git |
+| commit  | ac78513                                         |
+| systems | fuzzy-dates                                     |
+|---------+-------------------------------------------------|
