@@ -4,6 +4,6 @@ A library to fuzzily parse date and time strings
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/Shinmera/fuzzy-dates.git |
-| commit  | b6e5011                                         |
+| commit  | d6a2c22                                         |
 | systems | fuzzy-dates                                     |
 |---------+-------------------------------------------------|
